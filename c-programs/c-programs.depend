@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521957555 source:/home/puja/Projects/learn-c/c-programs/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1521958214 source:/home/puja/Projects/learn-c/c-programs/swap.c
+	<stdio.h>
+	<stdlib.h>
+
